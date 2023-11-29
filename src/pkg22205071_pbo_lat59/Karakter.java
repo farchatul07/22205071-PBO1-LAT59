@@ -7,9 +7,11 @@ package pkg22205071_pbo_lat59;
 /**
  *
  * @author user
- 
-  
- untuk menampilkan sebuah program yang berisikan karakter dari serial anime detective Conan disamping dengan pendekatan berbasis objek (DETECTIVE CONAN)
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : untuk menampilkan hasil sebuah program yang berisi karakter akatsuki dan serial anime naruto (AKATSUKI)
  */
 class Karakter {
 
